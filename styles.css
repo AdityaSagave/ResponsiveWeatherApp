@@ -29,15 +29,15 @@ body {
 }
 
 button {
-    margin: 0.5em;
-    border-radius: 100%;
+    margin: 1rem;
+    border-radius: 20%;
     border: none;
     height: 3.4em;
     width: 3.4em;
     background: #bbbfca5e;
     cursor: pointer;
     transition: 0.3s ease-in-out;
-    margin-right: 1em;
+    margin-right: auto;
 }
 
 button:hover {
