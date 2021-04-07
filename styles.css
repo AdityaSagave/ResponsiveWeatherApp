@@ -33,7 +33,7 @@ button {
     border-radius: 100%;
     border: none;
     height: 3.4em;
-    width: 3.7em;
+    width: 3.4em;
     background: #bbbfca5e;
     cursor: pointer;
     transition: 0.3s ease-in-out;
@@ -44,7 +44,7 @@ button:hover {
     background: #68bb7e;
 }
 
-#imperial {
+/* #imperial {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -56,7 +56,7 @@ button:hover {
     transition: 0.3s ease-in-out;
     background: #68bb7e;
     color: white;
-}
+} */
 
 form {
     font-size: 1.2em;
@@ -118,4 +118,14 @@ h1.temp {
     position: absolute;
     top: 0;
     left: 160px;
+}
+
+.impe{
+margin: 0;
+padding: 0;
+}
+
+.metr{
+    margin: 0;
+    padding: 0;
 }
